@@ -48,12 +48,12 @@ make more than
 
 ## Deliverables
 
-You are going to build a JavaScript application which searches GitHub for users
+ You are going to build a JavaScript application which searches GitHub for users
 by name and displays the results on the screen. Clicking on a specific user will
 show all the repositories for that user.
 
 1. The `index.html` file has a form with a search input. When the form is
-   submitted, it should take the value of the input and search GitHub for user
+   submitted, it shoYouuld take the value of the input and search GitHub for user
    matches using the [User Search Endpoint](#user-search-endpoint).
 2. Using the results of the search, display information about the users to the
    page. (You might include showing their username, avatar and a link to their
